@@ -1,0 +1,21 @@
+body{
+    background-color: gray;
+    height: 95vh;
+    width: 95;
+    align-items: center;
+}
+
+h1{
+    color:white;
+    text-align: center;
+}
+
+h2 {
+    float: left;
+}
+
+canvas{
+    margin-left: 300px;
+    margin-top: 0;
+}
+
